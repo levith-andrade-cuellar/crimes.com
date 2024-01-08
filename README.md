@@ -3,7 +3,9 @@
 **Contributors:** `Jenesis Blancaflor`, `Nabira Ahmad`, and `Levith Andrade Cuellar`
 
 ## Description
-"crimes.com" is a fictional crimes database we developed for our Introduction to Databases class. The project involved designing the database schema, programming it using SQL and making it accessible to others via a secure graphical user interface. 
+"crimes.com" is a fictional crimes database we developed for our Introduction to Databases class. The project involved designing the database schema, programming it using SQL and making it accessible to others via a secure graphical user interface. We summarize our work more technically in this short report.
+
+This is a copy of our original, working repository which you can access [here](https://github.com/jb7801/crimes_database). 
 
 ## How It Works
 
@@ -27,3 +29,8 @@ Some editing functionality is available to users of type officer and can be acce
 - **Insert:** Officers may insert new criminals to the database.
 - **Update:** Officers may update a criminal's information.
 - **Delete:** Officers may delete appeal entries.
+
+## How to Access
+For the time being our crimes.com database is hosted locally and will not run properly on your machine. If you'd like to see a demo please contact any of the contributors.
+
+## Preview
