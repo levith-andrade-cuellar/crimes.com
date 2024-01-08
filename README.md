@@ -37,10 +37,12 @@ For the time being our crimes.com database is hosted locally and will not run pr
 These are a series of screenshots of the platform in action.
 
 ### Login Page ###
+Access the database with a username and password.
 
 <img src="/preview/login.png" alt="Login" width="400"/>
 
 ### Search Page ###
+Search the database like you'd search Google.
 
 <img src="/preview/search.png" alt="Search" width="400"/>
 
@@ -48,9 +50,13 @@ These are a series of screenshots of the platform in action.
 
 **Landing**
 
+Provides you an overview of the criminal.
+
 <img src="/preview/criminal-profile-landing.png" alt="Criminal Profile Landing" width="400"/>
 
 **Information**
+
+Provides more detailed information. 
 
 <img src="/preview/criminal-profile-info.png" alt="Criminal Profile Info" width="400"/>
 
@@ -62,14 +68,18 @@ These are a series of screenshots of the platform in action.
 
 **Insert**
 
+Insert a new criminal record.
+
 <img src="/preview/insert.png" alt="Insert" width="400"/>
 
 **Update**
+
+Update an existing criminal record.
 
 <img src="/preview/update.png" alt="Update" width="400"/>
 
 **Delete**
 
-<img src="/preview/delete.png" alt="Delete" width="400"/>
+Delete an appeal.
 
-Crime and probation officer profiles are excluded from this preview but are similar to the above.
+<img src="/preview/delete.png" alt="Delete" width="400"/>
