@@ -8,7 +8,7 @@
 ## How It Works
 
 ### Login and Registration
-- **Users:** There are two types of users, criminals and officers may register to the site. Their type of account dictates what content they can view and/or modify.
+- **Users:** There are two types of users, criminals and officers. Their type of account dictates what content they can view and/or modify.
   - **Officers:** May view, insert, update and delete on the entire database. We assume they are in charge of keeping the database up to date and have the legal permissions to do so.
   - **Criminals:** May only view criminal and crime data. We assume that they are entitled to their own information.
 
@@ -26,4 +26,4 @@
 Some editing functionality is available to users of type officer and can be accessed under any officer profile.
 - **Insert:** Officers may insert new criminals to the database.
 - **Update:** Officers may update a criminal's information.
-- **Delete:** officers may delete appeal entries.
+- **Delete:** Officers may delete appeal entries.
