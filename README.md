@@ -3,7 +3,7 @@
 **Contributors:** `Jenesis Blancaflor`, `Nabira Ahmad`, and `Levith Andrade Cuellar`
 
 ## Description
-"crimes.com" is a fictional crimes database we developed for our Introduction to Databases class. The project involved designing the database schema, programming it using SQL and making it accessible to others via a secure graphical user interface. We summarize our work more technically in this short report.
+"crimes.com" is a fictional crimes database we developed for our Introduction to Databases class. The project involved designing the database schema, programming it using SQL and making it accessible to others via a secure graphical user interface. We summarize our work more technically in this short [report](/report.pdf).
 
 This is a copy of our original, working repository which you can access [here](https://github.com/jb7801/crimes_database). 
 
@@ -34,3 +34,42 @@ Some editing functionality is available to users of type officer and can be acce
 For the time being our crimes.com database is hosted locally and will not run properly on your machine. If you'd like to see a demo please contact any of the contributors.
 
 ## Preview
+These are a series of screenshots of the platform in action.
+
+### Login Page ###
+
+<img src="/preview/login.png" alt="Login" width="400"/>
+
+### Search Page ###
+
+<img src="/preview/search.png" alt="Search" width="400"/>
+
+### Criminal Profile ###
+
+**Landing**
+
+<img src="/preview/criminal-profile-landing.png" alt="Criminal Profile Landing" width="400"/>
+
+**Information**
+
+<img src="/preview/criminal-profile-info.png" alt="Criminal Profile Info" width="400"/>
+
+### Officer Profile ###
+
+<img src="/preview/officer-profile-landing.png" alt="Officer Profile Landing" width="400"/>
+
+### Editing ###
+
+**Insert**
+
+<img src="/preview/insert.png" alt="Insert" width="400"/>
+
+**Update**
+
+<img src="/preview/update.png" alt="Update" width="400"/>
+
+**Delete**
+
+<img src="/preview/delete.png" alt="Delete" width="400"/>
+
+Crime and probation officer profiles are excluded from this preview but are similar to the above.
